@@ -1,17 +1,3 @@
-#!/usr/bin/env python3
-"""
-pwmanager_gui_fixed.py
-
-Single-file desktop password manager with a modern theme (PySide6).
-Includes many features (security, UX, vault tools, generation, analytics).
-
-Dependencies:
-    pip install PySide6 cryptography
-
-Run:
-    python pwmanager_gui_fixed.py
-"""
-
 import sys
 import os
 import json
@@ -1283,4 +1269,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+
 
