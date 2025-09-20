@@ -1,16 +1,16 @@
-````markdown
-<div align="center">
-  
 # 🔐 PWManager GUI  
-A modern, secure, and feature-rich **desktop password manager** built with Python, PySide6, and cryptography.  
+_A modern, secure, and feature-rich **desktop password manager** built with Python, PySide6, and cryptography._  
 
-![GitHub repo size](https://img.shields.io/github/repo-size/voidxprt/pwmanager-gui?color=blue&style=for-the-badge)  
-![GitHub license](https://img.shields.io/github/license/voidxprt/pwmanager-gui?style=for-the-badge&color=green)  
-![GitHub last commit](https://img.shields.io/github/last-commit/voidxprt/pwmanager-gui?style=for-the-badge&color=purple)  
-![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)  
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20MacOS-lightgrey?style=for-the-badge)  
+<p align="center">
+  
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/voidxprt/pwmanager-gui?style=for-the-badge&color=blue)  
+![GitHub top language](https://img.shields.io/github/languages/top/voidxprt/pwmanager-gui?style=for-the-badge&color=yellow)  
+![GitHub issues](https://img.shields.io/github/issues/voidxprt/pwmanager-gui?style=for-the-badge&color=orange)  
+![GitHub stars](https://img.shields.io/github/stars/voidxprt/pwmanager-gui?style=for-the-badge&color=gold)  
+![GitHub forks](https://img.shields.io/github/forks/voidxprt/pwmanager-gui?style=for-the-badge&color=lightblue)  
 
-</div>
+
+</p>
 
 ---
 
@@ -29,9 +29,12 @@ A modern, secure, and feature-rich **desktop password manager** built with Pytho
 
 ---
 
-## 📸 Screenshots (Coming Soon)
-> Add your own screenshots here (GUI, generator tab, vault tab, reports, etc.)
-
+## 📸 Screenshots 
+<img width="982" height="514" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/cbc233a7-d976-4275-8b67-9e6dd8d07aa5" />
+<img width="1366" height="708" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/c6ba5cf8-2879-46ca-a839-60335524f94c" />
+<img width="1362" height="717" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/90c0bdbe-1694-43ea-a6e9-c493056f0053" />
+<img width="1366" height="721" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/20bf7368-effe-4c2d-a020-404afa165e04" />
+<img width="1362" height="721" alt="Screenshot (53)" src="https://github.com/user-attachments/assets/2ef9aeea-2f81-45f2-a0a9-11d8392eecf3" />
 ---
 
 ## 🚀 Installation
@@ -157,6 +160,5 @@ Distributed under the **MIT License**. See `LICENSE` for details.
 ### 🎉 Thank you for checking out **PWManager GUI**!
 
 ⭐ If you like this project, give it a star on GitHub — it helps a lot!
-
 </div>
 ```
